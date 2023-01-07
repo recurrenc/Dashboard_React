@@ -90,10 +90,10 @@ const Sidebar = () => {
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  Dashboard
+                  Sonu
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  SK Admin
+                  Admin
                 </Typography>
               </Box>
             </Box>
