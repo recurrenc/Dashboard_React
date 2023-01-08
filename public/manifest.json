@@ -1,6 +1,6 @@
 {
   "short_name": "Dashboard",
-  "name": "Advance React Dashboard",
+  "name": "React Dashboard is an entirely free open-source isomorphic dashboard template built with the latest technologies such as React Router, Redux, GraphQL and Material UI.",
   "icons": [
     {
       "src": "assets/dashboard.svg",
